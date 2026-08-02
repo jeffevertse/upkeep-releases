@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Upkeep</title>
-        <link>https://jeffevertse.github.io/upkeep-releases/appcast.xml</link>
-        <description>Update feed for Upkeep.</description>
-        <language>en</language>
-        <!-- Items are added here by scripts/release-self-update.sh via
-             Sparkle's generate_appcast tool. Empty until the first signed
-             release is published. -->
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 02 Aug 2026 20:13:55 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://jeffevertse.github.io/upkeep-releases/Upkeep-0.1.0.dmg" length="1647218" type="application/octet-stream" sparkle:edSignature="7pmy26fQXEOV3FvSOo2YCKflAItq7fGTwjYjrw2CHDpvYdOkMMxIAXGtnnR3szdyhE1k/HMl15ATLZ7D8GEqDw=="/>
+        </item>
     </channel>
 </rss>
