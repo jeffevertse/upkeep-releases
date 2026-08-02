@@ -9,9 +9,6 @@
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://jeffevertse.github.io/upkeep-releases/releases/Upkeep-0.1.1.dmg" length="1647204" type="application/octet-stream" sparkle:edSignature="cUdcSoklOmtfNnSPiEsoEx5ECZLQ7cdufP9VO7dcYI7XhPlfufpH6IRZxel47MLv6iZd3Q6AEJY3lUukOLEaDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://jeffevertse.github.io/upkeep-releases/releases/Upkeep2-1.delta" sparkle:deltaFrom="1" length="11466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DEwy2gkvw9WwPJ6KFTPyjXVuy7FYbkC0nWPKzB+lWO7v/PyWCsmst1f6BnuE92SGfgegUhuuhV6qqfKwUwfDCg=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
