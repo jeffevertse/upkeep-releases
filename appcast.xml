@@ -3,8 +3,16 @@
     <channel>
         <title>Upkeep</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Sun, 02 Aug 2026 21:25:43 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://jeffevertse.github.io/upkeep-releases/releases/Upkeep-0.1.2.dmg" length="2228490" type="application/octet-stream" sparkle:edSignature="MJZrOq+XKQJQgsKqtFwuBx8OhYg7n8fvQib9wTzqx8z0D5CswhaE1aC+FRA79qD/ieXcTquOnHy/sg60TIU4Aw=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
-            <pubDate>Sun, 02 Aug 2026 20:31:15 +0200</pubDate>
+            <pubDate>Sun, 02 Aug 2026 21:25:43 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
