@@ -3,8 +3,16 @@
     <channel>
         <title>Upkeep</title>
         <item>
+            <title>0.10.1</title>
+            <pubDate>Wed, 28 Oct 2026 21:26:01 +0100</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.10.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://jeffevertse.github.io/upkeep-releases/releases/Upkeep-0.10.1.dmg" length="3459183" type="application/octet-stream" sparkle:edSignature="7wPKyhGGsrK4uFwOi0yB1LbpDp6zx+5WVWSPvmh2Qj7VNaY8CCkXdOvFGE+AMmcz+9D+DSs64WdAVGuS/vF7Cw=="/>
+        </item>
+        <item>
             <title>0.10.0</title>
-            <pubDate>Wed, 28 Oct 2026 20:54:54 +0100</pubDate>
+            <pubDate>Wed, 28 Oct 2026 21:26:01 +0100</pubDate>
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -12,19 +20,11 @@
         </item>
         <item>
             <title>0.9.6</title>
-            <pubDate>Wed, 28 Oct 2026 20:54:54 +0100</pubDate>
+            <pubDate>Wed, 28 Oct 2026 21:26:01 +0100</pubDate>
             <sparkle:version>31</sparkle:version>
             <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://jeffevertse.github.io/upkeep-releases/releases/Upkeep-0.9.6.dmg" length="3251451" type="application/octet-stream" sparkle:edSignature="SUbmPoKBO1pvA2/NTz5bEayabxE4hGgCcsSnOQbcO+f+5maOPIYv6pRFMVYOxT61ULOvFFVmeeZ8C6yXauV5Cg=="/>
-        </item>
-        <item>
-            <title>0.9.4</title>
-            <pubDate>Wed, 28 Oct 2026 20:54:54 +0100</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://jeffevertse.github.io/upkeep-releases/releases/Upkeep-0.9.4.dmg" length="3246347" type="application/octet-stream" sparkle:edSignature="QfPwF83N0bHvCsNYwW/gKftvwlE4OhGzs+kqdPShXxYrAVh/lCxhO40L/aZIsGgpHqC8mAIdXWuC9wk091AuCw=="/>
         </item>
     </channel>
 </rss>
